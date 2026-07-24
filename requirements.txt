@@ -1,0 +1,7 @@
+# Core OCR stack for local/offline scan.py (Python 3.12 / Windows)
+paddleocr==3.4.0
+paddlepaddle==3.3.1
+opencv-contrib-python==4.10.0.84
+numpy>=1.24
+# PDF417 barcode decoder for CNI-V1 verso
+pyzbar>=0.1.9

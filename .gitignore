@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+models/paddlex_cache/
+*.tar
+output/
+logs/
+imgs_4test/
+imgs/
+.env
